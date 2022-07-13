@@ -21,7 +21,8 @@
     "**/*.tsx",
     "components/PostWidget.jsx",
     "components/PostCard.jsx",
-    "components/Categories.jsx"
+    "components/Categories.jsx",
+    "pages/index.js"
   ],
   "exclude": ["node_modules"]
 }
