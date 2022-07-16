@@ -1,7 +1,5 @@
 import React from "react";
-
 import { getPosts, getPostDetails } from "../../services";
-
 import {
   PostDetail,
   Categories,
