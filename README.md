@@ -1,23 +1,53 @@
-# My Graphcms Blog
+<div align="center"> 
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+  <h3 align="center">My Personal Blog</h3>
 
-## Deploy your own
+  <p align="center">
+    A responsive progamming blog for myself ❤️
+    <br />
+    <a href="#"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="">Live Preview</a>   
+    
+  </p>
+</div>
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+<!-- ABOUT THE PROJECT -->
+## About The Project
+I built my personal blog to share my knowledge and help other people out. There are many  great content waiting for you
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+### Built With
+The technologies I use in this project inclues:
+* [Next.JS](https://nextjs.org/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [GraphQL](https://graphql.org/)
+* [GraphCMS](https://hygraph.com/)
 
-## How to use
+<!-- GETTING STARTED -->
+## Getting Started
+This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+### Prerequisites
+You need to install [nodejs](https://nodejs.org/en/)
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+### Installation
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+1. Clone the repo
+   ```sh
+   git clone https://github.com/DevilKo0l/my-graphcms-blog.git
+   ```
+2. Install npm in gourmet-restaurant-web folder
+   ```
+   npm install
+   ```
+3. Run the project
+   ```
+   npm run dev
+   ```
+   Runs the app in the development mode.\
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+   The page will reload when you make changes.\
+   You may also see any lint errors in the console.
